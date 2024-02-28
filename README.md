@@ -1,5 +1,2 @@
-# Online-PHP-MySQL
+# PHP_MySQL_TestOnline
 Vegetables selling website
-ID | Name
---- | ---
-3119410308 | Tran Kim Phu
